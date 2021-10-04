@@ -4,6 +4,8 @@ CodeFellows reading notes
 ## Riley Morgan
 Hello, my name is Riley. I am a student at CodeFellows. I love sharks.
 
+https://github.com/Riley-Morgan
+
 ### Growth Mindset
 I keep a growth mindset by:
 
