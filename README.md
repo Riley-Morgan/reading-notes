@@ -16,4 +16,4 @@ I keep a growth mindset by:
 -Not letting a dead end discourage me
 
 ## Table of Contents
-[Learning Markdown](https://riley-morgan.github.io/reading-notes/learning-markdown)
+[Learning Markdown](https://riley-morgan.github.io/reading-notes/learning-markdown.md)
