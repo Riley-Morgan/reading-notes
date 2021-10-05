@@ -20,4 +20,4 @@ I keep a growth mindset by:
 
 [Terminal Setup](https://riley-morgan.github.io/reading-notes/terminal-setup.md)
 
-[Git Terminal Guide](https://riley-morgan.github.io/reading-notes/terminal-setup.md)
+[Git Tutorial Guide](https://riley-morgan.github.io/reading-notes/github-tutorial-guide.md)
