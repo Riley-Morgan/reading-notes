@@ -17,3 +17,5 @@ I keep a growth mindset by:
 
 ## Table of Contents
 [Learning Markdown](https://riley-morgan.github.io/reading-notes/learning-markdown.md)
+
+[Terminal Setup](https://riley-morgan.github.io/reading-notes/terminal-setup.md)
