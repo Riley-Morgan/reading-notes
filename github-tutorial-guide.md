@@ -55,3 +55,41 @@ CVCS in case of corruption or loss of code.
    -Tracked: These files can be modified/unmodified/staged and are part of the most recent snapshot
    
    -Untracked: These files can not be modified/staged/ as they are not part of the most recent snapshot
+
+
+### Life Cycle of File Status
+
+Untracked -add file-> Unmodified -edit file-> Modified
+
+Untracked <-remove file- Unmodified           Modified -stage file-> Staged
+
+Unmodified <-commit file- Staged
+
+
+#### Check File Status
+
+-'git status'
+
+#### Tracking and Staging a New File
+
+-a single file: 'git add filename'
+
+-all files: 'git add * <!-- --> '
+
+#### Committing a file
+
+-'git commit -m "made change x,y,z"
+
+#### Committing all changes
+
+-'git commit -a'
+
+#### Pushing changes
+
+-'git push origin master'
+
+### Stashing changes
+
+-'git stash'
+
+-to retrieve when ready to work again, use 'git stash apply'
