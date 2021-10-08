@@ -27,3 +27,5 @@ I keep a growth mindset by:
 [CSS Reading](https://riley-morgan.github.io/reading-notes/css-reading.md)
 
 [JavaScript Reading](https://riley-morgan.github.io/reading-notes/reading-five.md)
+
+[Programming with JavaScript](https://riley-morgan.github.io/reading-notes/reading-seven.md)
