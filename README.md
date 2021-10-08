@@ -28,4 +28,4 @@ I keep a growth mindset by:
 
 [JavaScript Reading](https://riley-morgan.github.io/reading-notes/reading-five.md)
 
-[Programming with JavaScript](https://riley-morgan.github.io/reading-notes/reading-seven.md)
+[Operators and Loops](https://riley-morgan.github.io/reading-notes/reading-seven.md)
